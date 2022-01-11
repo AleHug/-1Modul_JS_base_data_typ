@@ -32,5 +32,5 @@ console.log(bigintNumber, 'bigintNumber', typeof bigintNumber);
 
 // Symbol //  
 const id = Symbol('id');
-console.log(id);
+console.log(id, 'id', typeof id);
 
